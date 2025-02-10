@@ -1,4 +1,4 @@
-# Custom Calculator in WinForms
+# Custom Calculator (C# WinForms)
 
 This is a simple custom calculator designed and implemented by me in WinForms. It supports basic arithmetic operations. It only operates with integers but provides results with up to two decimal places. The program includes error handling and interactive messages to inform users about any issues encountered.
 
